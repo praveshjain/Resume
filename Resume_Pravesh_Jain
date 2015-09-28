@@ -1,0 +1,101 @@
+\documentclass[letterpaper]{article}
+\usepackage[tmargin=1in, bmargin=1in, lmargin=1in, rmargin=1in]{geometry}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\large
+\begin{centering}
+\section*{Pravesh Jain}
+Bachelor of Technology (B.Tech.)\\
+Computer Science and Engineering\\
+Indian Institute of Technology Ropar\\
+\texttt{praveshjain1991@gmail.com}\\
+\texttt{+91 9886886301}\\
+\end{centering}
+
+\normalsize
+\section*{Experience}
+
+    \subsection*{Software Engineer, Impetus Infotech Pvt. Ltd., July 2013 - Present}
+    Working with iLabs. Focus on R \& D work on emerging technologies in Big Data.
+    Languages - Java, Scala
+    \begin{itemize}
+        \item Implementing Image and Text analysis algorithms using Deep Neural Networks on Apache Spark.
+            \begin{itemize}
+            \item Implementing a library for using Neural Networks over Apache Spark.
+            \item Implementing an algorithm for Image classification over the Neural Network library on Apache Spark.
+            \item Implementing an algorithm for Sentiment Analysis over the Neural Network library on Apache Spark.
+            \end{itemize}
+        \item Comparing Spark SQL against Esper on Storm in Java. Confirmed that Spark SQL is equipped to perform all the functionalities available with Esper on Storm. This task resulted in change of platform for StreamAnalytix, one of the major products of Impetus.
+    	\item Implemented algorithms using reinforcement learning on Apache Spark in Scala. This work resulted in a talk at the Spark Summit.
+    	\item Benchmarking Apache Hive against competing technologies such as Presto, BlinkDB and Spark-Streaming against Storm.
+    \end{itemize}
+
+	\subsection*{Software Development Intern, Centre for Artificial Intelligence and Robotics, DRDO, Bengaluru May 2012 - July 2012}
+	Implemented an Android application that assists the Infantry Soldiers in battlefield by providing alerts if the soldiers go out of a predefined range from their troop.
+
+\section*{Education}
+
+	\subsection*{Indian Institute of Technology, Ropar - B. Tech., 2009 - 2013}
+	\begin{itemize}
+		\item Major: Computer Science and Engineering
+		\item CGPA: 7.31/10
+		\item Selected CS Courses taken: Discrete Mathematical Structures, Data Structures, Computer Architecture, Programming Paradigms and Pragmatics, Operating Systems, Analysis and Design of Algorithms, Software Engineering, Computer Networks, Logic and Computability, Introduction to Databases.
+
+	\end{itemize}
+
+	\subsection*{Happy Days School, Shivpuri, 2007 - 2009}
+	\begin{itemize}
+		\item Received Scholarship (Tuition Fee Waiver) for XI and XII standard.
+		\item Achieved 85.6\% in Intermediate Examination, CBSE.
+	\end{itemize}
+
+\section*{Academic Projects}
+
+	\subsection*{Public Key Cryptography (C)}
+	Guide: Dr. Daya Gaur, Indian Institute of Technology, Ropar 
+	\\*Implemented secure message passing with public key cryptography. 
+
+	\subsection*{Any GUI using Factory design pattern (Python)}
+	Guide: Dr. Anil Seth, Indian Institute of Technology Ropar 
+	\\*Implemented Any GUI by applying Factory Design Pattern on individual libraries.
+
+	\subsection*{Synonym scorer (Java)}
+	Guide: Dr. Daya Gaur, Indian Institute of Technology, Ropar 
+	\\*It involved creating a standard trie of the words in one document and searching for their synonyms in another document. 
+
+	\subsection*{Cache Simulator (C++, Java)}
+	Guide: Dr. Anu Vaidyanathan, Indian Institute of Technology Ropar 
+	\\*Single level and two level cache simulators that deals with millions of memory instructions and calculates the hits and misses. 
+
+	\subsection*{Skull Stripping of MRI Brain Images (Python)}
+	Guide: Dr. Deepti Bathula, Indian Institute of Technology, Ropar 
+	\\*Implemented Mathematical Morphology algorithm to perform Skull Stripping of MRI brain Images
+
+\section*{Achievements}
+Awarded 1st prize in “Show y our IT talent” Contest 2012, co-hosted by Works Applications and TOP CAREER International Corporation.
+\begin{itemize}
+\item Developed the AI for a card game which competed against other participants' AIs.
+\end{itemize}
+
+
+
+\section*{Skills}
+\begin{itemize}
+	\item Very Comfortable in Java and OOP concepts.
+	\item Familiar with Scala and Functional Programming.
+	\item Familiar with the Hadoop ecosystem.
+	\item Experienced in using Apache Spark.
+	\item Strong understanding of various data structures and algorithms.
+	\item Intermediate level skills in using and administering Linux systems.
+\end{itemize}
+
+
+\section*{Online Presence}
+	\begin{tabbing}
+		LinkedIn: \= \texttt{https://www.linkedin.com/in/praveshjain}\\
+
+		Blog:     \> \texttt{http://praveshjain.quora.com/}\\
+	\end{tabbing}
+\end{document}
